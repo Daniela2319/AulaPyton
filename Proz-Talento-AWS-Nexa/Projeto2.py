@@ -20,12 +20,12 @@ def calculadora(num1, num2, operador):
     elif operador == '/':
         return num1 / num2
     else:
-        return 'Operador inválido'
+        return '0'
 
 #Aqui no main o teste aparece para o usuário.
-numero1 = float(input('Digite o numero: '))
-numero2 = float(input('Digite o numero: '))
-operador = input('Digite o numero:(+, -, *, /) ')
+numero1 = 10
+numero2 = 5
+operador = '+'
 
 resultado = calculadora(numero1, numero2, operador)
 print(resultado)
