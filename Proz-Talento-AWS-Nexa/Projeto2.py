@@ -9,6 +9,7 @@ entrada que definirá a operação a ser executada. Considera a seguinte defini�
 
 Caso seja inserido um número de operação que não exista, o resultado deverá ser 0.
 '''
+#Nesta função calculadora foi utilizado as estrutura condicional para qual opção o usuário vai escolher o operador.
 def calculadora(num1, num2, operador):
     if operador == '+':
         return num1 + num2
@@ -21,6 +22,7 @@ def calculadora(num1, num2, operador):
     else:
         return 'Operador inválido'
 
+#Aqui no main o teste aparece para o usuário.
 numero1 = float(input('Digite o numero: '))
 numero2 = float(input('Digite o numero: '))
 operador = input('Digite o numero:(+, -, *, /) ')
