@@ -39,3 +39,7 @@ def operacao(num_lim, incre):
    
 num_lim = operacao(1, 10)
 print(num_lim)
+
+
+
+
