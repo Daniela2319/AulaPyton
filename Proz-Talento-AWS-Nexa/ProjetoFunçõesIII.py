@@ -31,6 +31,7 @@ def calculadora():
 
     opcao = int(input("Digite o número para a operação: "))
     if opcao == 0: # sair do programa
+      print('Saindo da calculadora!')
       break
 
     elif opcao == 1: # soma
@@ -61,4 +62,4 @@ def calculadora():
       print("Essa opção não existe")
 
 resultado = calculadora()
-print(calculadora)
+print(resultado)
