@@ -33,4 +33,4 @@ Esse projeto foi desenvolvindo com as seguintes tecnologias:
 
 # Autor
   
-  **Aluna:** _Daniela Velter_
+   _Daniela Velter_
