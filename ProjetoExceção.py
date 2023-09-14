@@ -22,7 +22,7 @@ def obter_ano_de_nascimento():
         try:
             ano = int(input("Digite o seu ano de nascimento (entre 1922 e 2021): "))
             # Verifica se o ano está dentro do intervalo desejado
-            if 1922 <= ano <= 2021:
+            if(1922 <= ano) or (ano <= 2021):
                 return ano
             else:
                 print("Erro: Por favor, digite um ano entre 1922 e 2021.")
