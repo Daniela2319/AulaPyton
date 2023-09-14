@@ -1,5 +1,6 @@
 import time
 
+#Primeira maneira 
 andar_inicial = 20
 andar_final = 0
 # andar e descrescente na estrutura repetição for
@@ -12,3 +13,17 @@ for i in range(andar_inicial, andar_final, -1):
   print(f'Chegou na sua parada {i}')
 
  
+#segunda maneira
+for andar in range(21, 0, -1):
+    if andar != 13:
+        print(andar)
+
+
+#terceira maneira
+andar = 1
+while True:
+    if andar != 13:
+        print(andar)
+    andar += 1
+    if andar > 20:
+        break
