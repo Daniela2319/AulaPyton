@@ -9,18 +9,25 @@
 
 # Sobre
 
-Precisamos imprimir um número para cada andar de um hotel de 20 andares. Porém, o dono do hotel é supersticioso e optou por não ter um 13° andar.
+Lógica de Programação em Linguagem Python: 
 
-Escreva um código que imprima todos os números exceto o número 13.
-Escreva mais dois códigos que resolvam o mesmo problema, mas dessa vez usando os outros dois tipos de laços de repetição aprendidos.
+* Programação de sistemas;
+* Algoritmo estruturado e não-estruturado;
+* Ambiente de desenvolvimento;
+* Tipos básicos de variáveis;
+* Tipos de operadores;
+* Estruturas condicionais;
+* Laços de repetição;
+* Funções de códigos;
+* Dados do usuário;
+* Problemas no sistema;
+* Tipos artificiais de dados;
+* Acesso a tabelas e listas de arquivos de dados;
+  
 
-Como desafio, imprima eles em ordem decrescente (20, 19, 18...).
 
 <p align="center">
-
-
-
-<img src="https://github.com/Daniela2319/AulaPyton/assets/106537496/f7759681-a265-4435-9c6b-47c3fef416f2" height="400" width="1000">
+<img src="https://github.com/Daniela2319/AulaPyton/assets/106537496/5931efe8-9e85-4a43-a811-936974e2f2bc" height="400" width="1000">
 </p>
 
 
@@ -33,4 +40,4 @@ Esse projeto foi desenvolvindo com as seguintes tecnologias:
 
 # Autor
   
-  **Aluna:** _Daniela Velter_
+   _Daniela Velter_
