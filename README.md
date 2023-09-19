@@ -1,4 +1,4 @@
-<h1 align="center"> TURMA 05 - Introdução à Programação </h1>
+<h1 align="center"> TURMA 05 - Introdução à Programação 💻 </h1>
 
 <p align="center"> Proz - Talento Cloud - AWS - Nexa </p>
 
@@ -7,9 +7,9 @@
 <a href="#tecnologia">Tecnologia</a>&nbsp;&nbsp;&nbsp|&nbsp;&nbsp;&nbsp;
 <a href="#autor">Autor</a>.</p>
 
-# Sobre
+# 💾 Sobre
 
-Lógica de Programação em Linguagem Python: 
+Lógica de Programação em Linguagem Python 🐍: 
 
 * Programação de sistemas;
 * Algoritmo estruturado e não-estruturado;
@@ -31,13 +31,13 @@ Lógica de Programação em Linguagem Python:
 </p>
 
 
-# Tecnologia
+# 🖥️ Tecnologia
 Esse projeto foi desenvolvindo com as seguintes tecnologias:
 
 * IDE VisualStudio Code
 * Python
 * Git e Github
 
-# Autor
+# 👩‍💻 Autor
   
-   _Daniela Velter_
+  _Daniela Velter_
